@@ -4,7 +4,8 @@ CHILLNNは、観光事業者様向けにSaaSを提供している、京都のス
 今後、toC向けの展開をしていくにあたり、一緒にプロダクト開発をしてくださるエンジニアを募集しています。  
 
 関西圏にお住まいで、SIerなどで働いていらっしゃる方で、モダンな技術スタックで自社プロダクトを開発していきたいと考えている方がいらっしゃったらWantedlyからでも、DMでもぜひご連絡ください！  
-カジュアル面談しましょう〜〜一緒にグローバルなプロダクトを作り上げていけたら嬉しいです。
+カジュアル面談しましょう〜〜  
+一緒にグローバルなプロダクトを作り上げていけたら嬉しいです。
 
 [コーポレートサイト](https://chillnn-inc.studio.site/) / [Techブログ](https://zenn.dev/p/chillnn_tech) / [企業ブログ](https://note.com/chillnn/) / [採用サイト](https://www.wantedly.com/projects/1355193) / [CEO Twitter](https://twitter.com/ryo_nagata_)
 
